@@ -1,5 +1,4 @@
 
-(* SPiM code written by Vishakha Sharma *)
 (* Reactions from Yamada et.al 2003 model*)
 
 directive sample 28.0e+3 (* 3.6e+3 = 60 minutes *) 1000
