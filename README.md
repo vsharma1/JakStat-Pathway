@@ -5,6 +5,6 @@ Note: Stochastic Computational Model of JAK-STAT Signal Transduction Pathway usi
 
 Steps Involved to Execute the Model
 
-1. Install Stochastic Pi Machine (SPiM).
+1. Install SPiM.
 
 2. Execute the JakStat.spi in SPiM.
